@@ -1,6 +1,6 @@
 # ddm-akka
-Akka example and homework code for the "Big Data Systems" lecture.
-Details of solution is mentioned in file Solution.pptx
+Akka example and homework code for the "Big Data Systems" lecture forked from Prof. Thorsten's project.
+Details of our solution is mentioned in file Solution.pptx
 
 ## Requirements
 - Java 9 >=
@@ -9,7 +9,7 @@ Details of solution is mentioned in file Solution.pptx
 ## Getting started
 1. Clone repo
   ```
-  git clone https://github.com/LyyNgg/Big-Data-class.git
+  git clone https://github.com/wendychou2023/Big-Data-Systems-Akka.git
   ```
         
 2. Decompress test data
